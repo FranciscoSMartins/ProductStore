@@ -36,14 +36,14 @@ npm run start
 
 ### Frontend 🖥️
 
-* Language: **HTML**
+* Language: **HTML**, **JavaScript **
 * Frameworks/Libraries: **React.js**, **Chakra UI**
 * Responsive UI with React.js and Chakra UI
 
 ### Backend ⚙️
 
 * Language: **JavaScript (Node.js)**
-* Frameworks: **Express.js (version 4)**
+* Frameworks: **Express.js **
 * Database: **MongoDB**
 
 ---
