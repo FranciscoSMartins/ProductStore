@@ -1,8 +1,4 @@
-Claro! Aqui vai o README com alguns emojis para dar um toque mais amigável e visual:
-
----
-
-# 🚀 Projeto \ProductStore
+# 🚀 Projeto ProductStore
 
 ## ⚙️ Setup
 
