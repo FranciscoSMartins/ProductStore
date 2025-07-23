@@ -46,6 +46,9 @@ npm run start
 * Frameworks: **Node**
 * Database: **MongoDB**
 
+### Tools 🧰
+* Postman: used for testing and validating backend API endpoints during development.
+
 ---
 
 ## ⚠️ Challenges Faced
