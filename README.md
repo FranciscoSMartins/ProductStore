@@ -44,6 +44,4 @@ npm run start
 * Na fase final para colocar a aplicação em produção, foi necessário usar o **Express na versão 4** para garantir compatibilidade.
 * Também precisei configurar o **proxy** para conectar corretamente o backend com o frontend, garantindo a comunicação fluida entre ambos.
 
----
 
-Se quiseres, posso ajudar a deixar o README ainda mais completo! Quer que acrescente instruções de instalação, screenshots ou links úteis?
