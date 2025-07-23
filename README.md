@@ -1,5 +1,5 @@
 
----
+
 
 # 🚀 ProductStore Project
 
@@ -55,5 +55,5 @@ npm run start
 * Managing state on the frontend, especially with forms for creating and editing products, demanded attention to maintain UI responsiveness and data consistency.
 * Optimizing the build process to reduce static file size and improve application load times.
 
----
+
 
