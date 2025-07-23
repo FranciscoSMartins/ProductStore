@@ -1,21 +1,30 @@
-# 🚀 Projeto ProductStore
+
+---
+
+# 🚀 ProductStore Project
+
+## 📋 Summary
+
+This application is a store management platform that allows users to create, edit, and view products. Through a responsive interface, users can intuitively manage the product catalog. The frontend communicates with the backend via a RESTful API, ensuring a dynamic and efficient data flow.
+
+---
 
 ## ⚙️ Setup
 
-1. Cria um ficheiro `.env` na raiz do projeto com as variáveis:
+1. Create a `.env` file in the project root with the following variables:
 
 ```env
 MONGO_URI=your_mongo_uri
 PORT=5000
 ```
 
-2. Executa o build da aplicação localmente:
+2. Build the application locally:
 
 ```bash
 npm run build
 ```
 
-3. Inicia a aplicação:
+3. Start the application:
 
 ```bash
 npm run start
@@ -27,21 +36,24 @@ npm run start
 
 ### Frontend 🖥️
 
-* Linguagem: **HTML**
-* Frameworks/Bibliotecas: **React.js**, **Chakra UI**
-* UI responsiva com React.js e Chakra UI
+* Language: **HTML**
+* Frameworks/Libraries: **React.js**, **Chakra UI**
+* Responsive UI with React.js and Chakra UI
 
 ### Backend ⚙️
 
-* Linguagem: **JavaScript (Node.js)**
-* Frameworks: **Express.js (versão 4)**
-* Base de dados: **MongoDB**
+* Language: **JavaScript (Node.js)**
+* Frameworks: **Express.js (version 4)**
+* Database: **MongoDB**
 
 ---
 
-## ⚠️ Dificuldades Encontradas
+## ⚠️ Challenges Faced
 
-* Na fase final para colocar a aplicação em produção, foi necessário usar o **Express na versão 4** para garantir compatibilidade.
-* Também precisei configurar o **proxy** para conectar corretamente o backend com o frontend, garantindo a comunicação fluida entre ambos.
+* For production deployment, it was essential to use **Express version 4** due to changes in later versions affecting server behavior.
+* Proxy configuration during development required careful setup to ensure frontend requests were correctly forwarded to the backend, avoiding CORS issues and ensuring smooth communication.
+* Managing state on the frontend, especially with forms for creating and editing products, demanded attention to maintain UI responsiveness and data consistency.
+* Optimizing the build process to reduce static file size and improve application load times.
 
+---
 
